@@ -1,7 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Empezando con Arduino"
 ---
 
-# Welcome to my blog!
+# Introducción
 
-I want to start with this
+Esta página te introducirá a los conceptos básicos en Arduino.
